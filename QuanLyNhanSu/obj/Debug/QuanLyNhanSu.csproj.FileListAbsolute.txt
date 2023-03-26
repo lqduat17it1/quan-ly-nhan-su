@@ -1,0 +1,78 @@
+c:\users\huelk\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+c:\users\huelk\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+c:\users\huelk\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+c:\users\huelk\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\HueLK\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\documents\visual studio 2015\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmChucVu.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\Documents\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\HueLK\Documents\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\Documents\QuanLyNhanSu_chucvu\QuanLyNhanSu_chucvu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu+hopdong\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu+hopdong\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_chucvu+hopdong\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmChucVu.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHopDong.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmLuong.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmNhanVien.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmPhongBan.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmTrinhDoHocVan.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmDangNhap.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmQuanLyNhanSu.resources
+C:\Users\HueLK\Documents\GitHub\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHelp.resources
+C:\Users\MrHoang\Desktop\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\MrHoang\Desktop\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\MrHoang\Desktop\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmDangNhap.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmChucVu.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHelp.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHopDong.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmLuong.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmNhanVien.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmPhongBan.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmQuanLyNhanSu.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmTrinhDoHocVan.resources
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\Work\qlns\quanlynhansu\QuanLyNhanSu_\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmDoiMatKhau.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmDangNhap.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmChucVu.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmDoiMatKhau.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHelp.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmHopDong.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmLuong.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmNhanVien.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmPhongBan.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmQuanLyNhanSu.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.VIEW.frmTrinhDoHocVan.resources
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Work\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
