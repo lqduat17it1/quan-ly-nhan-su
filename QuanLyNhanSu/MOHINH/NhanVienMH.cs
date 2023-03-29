@@ -42,7 +42,7 @@ namespace QuanLyNhanSu.MOHINH
         //thêm mới dl
         public bool AddData(NhanVienDT dtNV)
         {
-            cmd.CommandText = "INSERT INTO nhanvien values ('" + dtNV.Manhanvien + "',N'" + dtNV.Tennhanvien + "',CONVERT(DATE,'" + dtNV.Ngaysinh + "',103),'" + dtNV.Gioitinh + "',N'" + dtNV.Quequan + "','" + dtNV.Sodienthoai + "',N'" + dtNV.Dantoc + "','" + dtNV.Maphongban + "','" + dtNV.Machucvu + "','" + dtNV.Matrinhdohocvan + "','" + dtNV.Bacluong + "')";
+            cmd.CommandText = "INSERT INTO nhanvien values ('" + dtNV.Manhanvien + "',N'" + dtNV.Tennhanvien + "',PARSE('" + dtNV.Ngaysinh + "' AS DATE USING 'vi-VN'),'" + dtNV.Gioitinh + "',N'" + dtNV.Quequan + "','" + dtNV.Sodienthoai + "',N'" + dtNV.Dantoc + "','" + dtNV.Maphongban + "','" + dtNV.Machucvu + "','" + dtNV.Matrinhdohocvan + "','" + dtNV.Bacluong + "')";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = conn.Connection;
             try
@@ -64,7 +64,7 @@ namespace QuanLyNhanSu.MOHINH
         //SỬA dl
         public bool UpdateData(NhanVienDT dtNV)
         {
-            cmd.CommandText = "UPDATE nhanvien SET tennhanvien= N'" + dtNV.Tennhanvien + "',ngaysinh = CONVERT(DATE,'" + dtNV.Ngaysinh + "',103),gioitinh ='" + dtNV.Gioitinh + "',quequan = N'" + dtNV.Quequan + "',sodienthoai = '" + dtNV.Sodienthoai + "',dantoc = N'" + dtNV.Dantoc + "',maphongban = '" + dtNV.Maphongban + "', machucvu = '" + dtNV.Machucvu + "',matrinhdohocvan = '" + dtNV.Matrinhdohocvan + "',bacluong = '" + dtNV.Bacluong + "' WHERE manhanvien ='" + dtNV.Manhanvien + "'";
+            cmd.CommandText = "UPDATE nhanvien SET tennhanvien= N'" + dtNV.Tennhanvien + "',ngaysinh = PARSE('" + dtNV.Ngaysinh + "' AS DATE USING 'vi-VN'),gioitinh ='" + dtNV.Gioitinh + "',quequan = N'" + dtNV.Quequan + "',sodienthoai = '" + dtNV.Sodienthoai + "',dantoc = N'" + dtNV.Dantoc + "',maphongban = '" + dtNV.Maphongban + "', machucvu = '" + dtNV.Machucvu + "',matrinhdohocvan = '" + dtNV.Matrinhdohocvan + "',bacluong = '" + dtNV.Bacluong + "' WHERE manhanvien ='" + dtNV.Manhanvien + "'";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = conn.Connection;
             try

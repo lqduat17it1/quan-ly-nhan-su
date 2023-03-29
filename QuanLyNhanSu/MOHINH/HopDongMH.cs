@@ -43,7 +43,7 @@ namespace QuanLyNhanSu.MOHINH
         //thêm mới dl
         public bool AddData(HopDongLaoDongDT dtHD)
         {
-            cmd.CommandText = "INSERT INTO hopdonglaodong values ('" + dtHD.Mahopdong + "',N'" + dtHD.Loaihopdong + "',CONVERT(DATE,'" + dtHD.Tungay + "',103),CONVERT(DATE,'" + dtHD.Denngay + "',103) ,'" + dtHD.Manhanvien + "')";
+            cmd.CommandText = "INSERT INTO hopdonglaodong values ('" + dtHD.Mahopdong + "',N'" + dtHD.Loaihopdong + "',PARSE('" + dtHD.Tungay + "' AS DATE USING 'vi-VN'),PARSE('" + dtHD.Denngay + "' AS DATE USING 'vi-VN') ,'" + dtHD.Manhanvien + "')";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = conn.Connection;
             try
@@ -65,9 +65,10 @@ namespace QuanLyNhanSu.MOHINH
         //SỬA dl
         public bool UpdateData(HopDongLaoDongDT dtHD)
         {
-            cmd.CommandText = "UPDATE hopdonglaodong SET loaihopdong = N'" + dtHD.Loaihopdong + "',tungay = CONVERT(DATE,'" + dtHD.Tungay + "',103),denngay = CONVERT(DATE,'" + dtHD.Denngay + "',103) ,manhanvien = '" + dtHD.Manhanvien + "' WHERE mahopdong ='" + dtHD.Mahopdong + "'";
+            cmd.CommandText = "UPDATE hopdonglaodong SET loaihopdong = N'" + dtHD.Loaihopdong + "',tungay = PARSE('" + dtHD.Tungay + "' AS DATE USING 'vi-VN'),denngay = PARSE('" + dtHD.Denngay + "' AS DATE USING 'vi-VN') ,manhanvien = '" + dtHD.Manhanvien + "' WHERE mahopdong ='" + dtHD.Mahopdong + "'";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = conn.Connection;
+            Console.WriteLine(cmd.CommandText);
             try
             {
                 conn.OpenConn();
